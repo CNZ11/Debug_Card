@@ -20,13 +20,6 @@
  * * 1. fix the bug of :
  * *
  * *
- * ******* 3. HOW TO USE *********
- * * 0. Include this file into your current project.
- * * 1. include the header file where needed.
- * * 2. Modify the macro definitions and enums in 'header file.h'.
- * * 3. change the resources in 'files name.c':
- * * 4. Registers the device by calling the provided function using a callback.
- * * 5. Use the pointer to get the operation handle and use the device.
  * *
  * ******************************************************************************
  */

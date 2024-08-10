@@ -92,7 +92,7 @@ Here are the steps to use STM32CubeMX:
 
 4.  In STM32CubeMX's Project Manager, select the IDE type as MDK-ARM.
 
-    ![image-20240809111542416](Image/image-20240809111542416.png)
+    ![](Image/image-20240802140851133.png)
 
 5.  Click to generate the project, which will automatically create a Keil project.
 
@@ -131,8 +131,6 @@ In the first-level Directory of this repository project, you will find the“Doc
 |  Makefile   |                   Compile using a makefile                   |
 
 Application folders explain
-
-![image-20240802143911267](Image/image-20240802143911267.png)
 
 |     file      |                           explain                            |
 | :-----------: | :----------------------------------------------------------: |

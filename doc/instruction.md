@@ -31,13 +31,14 @@
 
 <div>		<!--块级封装-->
     <center>	<!--将图片和文字居中-->
-    <img src="../Image/image-20240718181240693.png"
+    <img src="Image/image-20240718181240693.png"
          alt="图片加载失败"
          style="zoom:33%"/>
     <br>
         配件板硬件分区实物示意图
     </center>
 </div>
+
 
 
 
